@@ -22,7 +22,9 @@
 		"semi": ["error", "always"],     	// Requires the use of a semicolon after each statement
 		"indent": ["error", 4],
 		"quotes": ["error", "double"],   	// Requires the use of quotes for each string
-		"space-before-function-paren": ["error", "always"]
+		"space-before-function-paren": ["error", "always"],
+		"space-before-blocks": "error",
+		"object-curly-spacing": ["error", "always"]
 	},
 	"root": true
 }
